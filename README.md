@@ -200,6 +200,10 @@ fintech_risk_assignment.ipynb
 
 ---
 
+## Project Demo
+Watch the Loom video here:
+https://www.loom.com/share/ca940a1f1ab144019fe9a5aa4c7d1207
+
 ## Author
 
 **Sahil Jahagirdar**
